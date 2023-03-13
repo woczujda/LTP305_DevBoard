@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\woczujda\Documents\GitHub\LTP305_DevBoard\LTP-305_dev_board\LTP-305_dev_board.kicad_sch</source>
+    <date>16/02/2023 15:57:39</date>
+    <tool>Eeschema (6.0.10)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>LTP-305_dev_board.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>0.22uF</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>28e2d9a8-5dd0-4162-aec5-6be77ac07785</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uF</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="C" description="Unpolarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20db340e-86f5-4c5f-9af2-f0bae9ce5148</tstamps>
+    </comp>
+    <comp ref="CA1">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed25d02e-b8e0-4c16-b945-498f0bfbfac2</tstamps>
+    </comp>
+    <comp ref="CA2">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8b7377a3-8aeb-459c-b885-c0d99b596923</tstamps>
+    </comp>
+    <comp ref="CA3">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f7c9d91a-b47d-43f5-ad62-253fc660705b</tstamps>
+    </comp>
+    <comp ref="CA4">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4181b9bc-76ca-4ff8-afcf-1f70ed73a825</tstamps>
+    </comp>
+    <comp ref="CA5">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bd10147d-46eb-410c-94cc-3a63eabff44e</tstamps>
+    </comp>
+    <comp ref="CA6">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f966a7e-5009-4a9b-a1cc-072c303aa1c8</tstamps>
+    </comp>
+    <comp ref="CA7">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a4526e0-4133-4274-a2ee-25f55cdd63f4</tstamps>
+    </comp>
+    <comp ref="CA8">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e130024c-ef05-4bea-b76c-ce4e5fc32bc3</tstamps>
+    </comp>
+    <comp ref="CA9">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d776e35-b46d-4ed6-a3f9-eb48a4276431</tstamps>
+    </comp>
+    <comp ref="CB1">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>df8f6443-15bc-46a1-86a1-a250ca6c6c9b</tstamps>
+    </comp>
+    <comp ref="CB2">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fd566bb-b03c-45b1-85e1-3b8ba2a65603</tstamps>
+    </comp>
+    <comp ref="CB3">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>836adbe2-0797-4202-aeff-50b86df3d83f</tstamps>
+    </comp>
+    <comp ref="CB4">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3b358971-3696-45a3-9b38-c55856e01a0a</tstamps>
+    </comp>
+    <comp ref="CB5">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1bffc532-75fd-4ee9-a97f-2fed2fe3a7be</tstamps>
+    </comp>
+    <comp ref="CB6">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>54fe7e0b-7599-4f25-9e25-48f2487d65c6</tstamps>
+    </comp>
+    <comp ref="CB7">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6fac8e5f-6ff3-4148-9e3f-984f39e08ba5</tstamps>
+    </comp>
+    <comp ref="CB8">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b9263ed3-ac89-44a8-9ea7-c5bc2cbae5c3</tstamps>
+    </comp>
+    <comp ref="CB9">
+      <value>Conn_01x04</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_1x04_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x04" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c53f2ee0-a7df-495a-8cfe-a79811bc466a</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8474548b-0c25-40a5-a7e5-85b7000a506c</tstamps>
+    </comp>
+    <comp ref="DS1">
+      <value>LTP-305G</value>
+      <footprint>DIPS762W50P254L1850H400Q14N</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTP-305G.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Displays &amp; Accessories Green</field>
+        <field name="Height">4</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTP-305G</field>
+        <field name="Mouser Part Number">859-LTP-305G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lite-On/LTP-305G?qs=gnaPJ2cis70tTyscg55DVQ%3D%3D</field>
+      </fields>
+      <libsource lib="LTP-305G" part="LTP-305G" description="LED Displays &amp; Accessories Green"/>
+      <property name="Description" value="LED Displays &amp; Accessories Green"/>
+      <property name="Height" value="4"/>
+      <property name="Mouser Part Number" value="859-LTP-305G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Lite-On/LTP-305G?qs=gnaPJ2cis70tTyscg55DVQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTP-305G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>93cc2553-272b-43c3-b307-391c1296ba0a</tstamps>
+    </comp>
+    <comp ref="DS2">
+      <value>LTP-305G</value>
+      <footprint>DIPS762W50P254L1850H400Q14N</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTP-305G.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Displays &amp; Accessories Green</field>
+        <field name="Height">4</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTP-305G</field>
+        <field name="Mouser Part Number">859-LTP-305G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lite-On/LTP-305G?qs=gnaPJ2cis70tTyscg55DVQ%3D%3D</field>
+      </fields>
+      <libsource lib="LTP-305G" part="LTP-305G" description="LED Displays &amp; Accessories Green"/>
+      <property name="Description" value="LED Displays &amp; Accessories Green"/>
+      <property name="Height" value="4"/>
+      <property name="Mouser Part Number" value="859-LTP-305G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Lite-On/LTP-305G?qs=gnaPJ2cis70tTyscg55DVQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTP-305G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec29234f-63ed-431a-877a-45bd23c6a3c7</tstamps>
+    </comp>
+    <comp ref="DS3">
+      <value>LTP-305G</value>
+      <footprint>DIPS762W50P254L1850H400Q14N</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTP-305G.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Displays &amp; Accessories Green</field>
+        <field name="Height">4</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTP-305G</field>
+        <field name="Mouser Part Number">859-LTP-305G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lite-On/LTP-305G?qs=gnaPJ2cis70tTyscg55DVQ%3D%3D</field>
+      </fields>
+      <libsource lib="LTP-305G" part="LTP-305G" description="LED Displays &amp; Accessories Green"/>
+      <property name="Description" value="LED Displays &amp; Accessories Green"/>
+      <property name="Height" value="4"/>
+      <property name="Mouser Part Number" value="859-LTP-305G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Lite-On/LTP-305G?qs=gnaPJ2cis70tTyscg55DVQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTP-305G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a66e803-cd2d-4b8c-8bae-aa1f691dedc4</tstamps>
+    </comp>
+    <comp ref="DS4">
+      <value>LTP-305G</value>
+      <footprint>DIPS762W50P254L1850H400Q14N</footprint>
+      <datasheet>https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTP-305G.pdf</datasheet>
+      <fields>
+        <field name="Description">LED Displays &amp; Accessories Green</field>
+        <field name="Height">4</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTP-305G</field>
+        <field name="Mouser Part Number">859-LTP-305G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lite-On/LTP-305G?qs=gnaPJ2cis70tTyscg55DVQ%3D%3D</field>
+      </fields>
+      <libsource lib="LTP-305G" part="LTP-305G" description="LED Displays &amp; Accessories Green"/>
+      <property name="Description" value="LED Displays &amp; Accessories Green"/>
+      <property name="Height" value="4"/>
+      <property name="Mouser Part Number" value="859-LTP-305G"/>
+      <property name="Mouser Price/Stock" value="https://www.mouser.co.uk/ProductDetail/Lite-On/LTP-305G?qs=gnaPJ2cis70tTyscg55DVQ%3D%3D"/>
+      <property name="Manufacturer_Name" value="Lite-On"/>
+      <property name="Manufacturer_Part_Number" value="LTP-305G"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>20744e39-b703-46bb-b06d-105bc87dc3a5</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x14</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x14" description="Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07e04262-8be5-4cbd-8ff2-10c1516bb3f7</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x14</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x14" description="Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d985fa61-a3f8-49e6-8ee9-dafc41c88aa3</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x14</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x14" description="Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>83df8508-2a17-4a70-9288-02a372408eea</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x14</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x07_P1.27mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x14" description="Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1a61123-6141-414b-937f-7a99597f06d9</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x07</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x07" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e6617fc0-5809-4c9e-b181-f4838ddb3db3</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>Conn_01x07</value>
+      <footprint>Connector_PinHeader_2.54mm:Pin_jumper_1x7_P2.54mm</footprint>
+      <libsource lib="Connector_Generic" part="Conn_01x07" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>b2a40333-e751-43ec-8481-9d9a8dbf7ab3</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>05f58401-62f4-462f-b2b5-0c7c084cefc6</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>65c4ed96-689b-4475-9250-b5fa08951d00</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>10ce9f83-73d6-4492-821a-bc0f03446765</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>4.7K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89f6dc37-d5d5-482f-9d4c-c79340650c06</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>20K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3db86ae1-bcb2-48ef-a1fe-e58527f686c1</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>R</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>51d0befe-9ba3-4452-92cb-4509508a962a</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>IS31FL3731-SA</value>
+      <footprint>Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm</footprint>
+      <datasheet>http://www.issi.com/WW/pdf/31FL3731.pdf</datasheet>
+      <libsource lib="Driver_LED" part="IS31FL3731-QF" description="9x16 LED matrix driver with 8-bit PWM and breathing, QFN-28"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="LTP-305_dev_board.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3e23306b-006e-4bb7-936d-b098e57ef204</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector_Generic" part="Conn_01x04">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x07">
+      <description>Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x14">
+      <description>Generic connector, single row, 01x14, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x14</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+        <pin num="11" name="Pin_11" type="passive"/>
+        <pin num="12" name="Pin_12" type="passive"/>
+        <pin num="13" name="Pin_13" type="passive"/>
+        <pin num="14" name="Pin_14" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C">
+      <description>Unpolarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_LED" part="IS31FL3731-QF">
+      <description>9x16 LED matrix driver with 8-bit PWM and breathing, QFN-28</description>
+      <docs>http://www.issi.com/WW/pdf/31FL3731.pdf</docs>
+      <footprints>
+        <fp>QFN*1EP*4x4mm*P0.4mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">IS31FL3731-QF</field>
+        <field name="Footprint">Package_DFN_QFN:QFN-28-1EP_4x4mm_P0.4mm_EP2.3x2.3mm</field>
+        <field name="Datasheet">http://www.issi.com/WW/pdf/31FL3731.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="CA9" type="bidirectional"/>
+        <pin num="2" name="VCC" type="power_in"/>
+        <pin num="3" name="~{SDB}" type="input"/>
+        <pin num="4" name="~{INTB}" type="open_collector"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="R_EXT" type="passive"/>
+        <pin num="7" name="CB1" type="bidirectional"/>
+        <pin num="8" name="CB2" type="bidirectional"/>
+        <pin num="9" name="CB3" type="bidirectional"/>
+        <pin num="10" name="CB4" type="bidirectional"/>
+        <pin num="11" name="CB5" type="bidirectional"/>
+        <pin num="12" name="CB6" type="bidirectional"/>
+        <pin num="13" name="CB7" type="bidirectional"/>
+        <pin num="14" name="CB8" type="bidirectional"/>
+        <pin num="15" name="CB9" type="bidirectional"/>
+        <pin num="16" name="C_FILT" type="passive"/>
+        <pin num="17" name="IN" type="input"/>
+        <pin num="18" name="AD" type="input"/>
+        <pin num="19" name="SDA" type="bidirectional"/>
+        <pin num="20" name="SCL" type="input"/>
+        <pin num="21" name="CA1" type="bidirectional"/>
+        <pin num="22" name="CA2" type="bidirectional"/>
+        <pin num="23" name="CA3" type="bidirectional"/>
+        <pin num="24" name="CA4" type="bidirectional"/>
+        <pin num="25" name="CA5" type="bidirectional"/>
+        <pin num="26" name="CA6" type="bidirectional"/>
+        <pin num="27" name="CA7" type="bidirectional"/>
+        <pin num="28" name="CA8" type="bidirectional"/>
+        <pin num="29" name="GND" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="LTP-305G" part="LTP-305G">
+      <description>LED Displays &amp; Accessories Green</description>
+      <docs>https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTP-305G.pdf</docs>
+      <fields>
+        <field name="Reference">DS</field>
+        <field name="Value">LTP-305G</field>
+        <field name="Footprint">DIPS762W50P254L1850H400Q14N</field>
+        <field name="Datasheet">https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTP-305G.pdf</field>
+        <field name="Description">LED Displays &amp; Accessories Green</field>
+        <field name="Height">4</field>
+        <field name="Mouser Part Number">859-LTP-305G</field>
+        <field name="Mouser Price/Stock">https://www.mouser.co.uk/ProductDetail/Lite-On/LTP-305G?qs=gnaPJ2cis70tTyscg55DVQ%3D%3D</field>
+        <field name="Manufacturer_Name">Lite-On</field>
+        <field name="Manufacturer_Part_Number">LTP-305G</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ANODE_COLUMN_2" type="passive"/>
+        <pin num="2" name="CATHODE_ROW_1" type="passive"/>
+        <pin num="3" name="CATHODE_ROW_3" type="passive"/>
+        <pin num="4" name="CATHODE_ROW_4" type="passive"/>
+        <pin num="5" name="ANODE_COLUMN_1" type="passive"/>
+        <pin num="6" name="NO_PIN" type="passive"/>
+        <pin num="7" name="ANODE_DECIMAL_POINT" type="passive"/>
+        <pin num="8" name="ANODE_COLUMN_3" type="passive"/>
+        <pin num="9" name="CATHODE_ROW_7" type="passive"/>
+        <pin num="10" name="CATHODE_ROW_6" type="passive"/>
+        <pin num="11" name="CATHODE__ROW_5" type="passive"/>
+        <pin num="12" name="CAATHODE_ROW_2" type="passive"/>
+        <pin num="13" name="ANODE_COLUMN_5" type="passive"/>
+        <pin num="14" name="ANODE_COLUMN_4" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Driver_LED">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Driver_LED.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="AUDIO">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="2" name="CA1">
+      <node ref="CA1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CA1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CA1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CA1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="CA1" pintype="bidirectional"/>
+    </net>
+    <net code="3" name="CA2">
+      <node ref="CA2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CA2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CA2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CA2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="CA2" pintype="bidirectional"/>
+    </net>
+    <net code="4" name="CA3">
+      <node ref="CA3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CA3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CA3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CA3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="CA3" pintype="bidirectional"/>
+    </net>
+    <net code="5" name="CA4">
+      <node ref="CA4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CA4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CA4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CA4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="CA4" pintype="bidirectional"/>
+    </net>
+    <net code="6" name="CA5">
+      <node ref="CA5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CA5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CA5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CA5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="CA5" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="CA6">
+      <node ref="CA6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CA6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CA6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CA6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="26" pinfunction="CA6" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="CA7">
+      <node ref="CA7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CA7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CA7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CA7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="27" pinfunction="CA7" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="CA8">
+      <node ref="CA8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CA8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CA8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CA8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="28" pinfunction="CA8" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="CA9">
+      <node ref="CA9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CA9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CA9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CA9" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="CA9" pintype="bidirectional"/>
+    </net>
+    <net code="11" name="CB1">
+      <node ref="CB1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CB1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CB1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CB1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="CB1" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="CB2">
+      <node ref="CB2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CB2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CB2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CB2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="CB2" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="CB3">
+      <node ref="CB3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CB3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CB3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CB3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="CB3" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="CB4">
+      <node ref="CB4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CB4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CB4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CB4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="CB4" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="CB5">
+      <node ref="CB5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CB5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CB5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CB5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="CB5" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="CB6">
+      <node ref="CB6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CB6" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CB6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CB6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="CB6" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="CB7">
+      <node ref="CB7" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CB7" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CB7" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CB7" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="CB7" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="CB8">
+      <node ref="CB8" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CB8" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CB8" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CB8" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="CB8" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="CB9">
+      <node ref="CB9" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="CB9" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="CB9" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="CB9" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="CB9" pintype="bidirectional"/>
+    </net>
+    <net code="20" name="GND">
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J6" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="IN" pintype="input"/>
+      <node ref="U1" pin="29" pinfunction="GND" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="21" name="INTB">
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J6" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="~{INTB}" pintype="open_collector"/>
+    </net>
+    <net code="22" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="AD" pintype="input"/>
+    </net>
+    <net code="23" name="Net-(C2-Pad1)">
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="C_FILT" pintype="passive"/>
+    </net>
+    <net code="24" name="Net-(D1-Pad2)">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R6" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="Net-(DS1-Pad1)">
+      <node ref="DS1" pin="1" pinfunction="ANODE_COLUMN_2" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="26" name="Net-(DS1-Pad2)">
+      <node ref="DS1" pin="2" pinfunction="CATHODE_ROW_1" pintype="passive"/>
+      <node ref="J1" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="27" name="Net-(DS1-Pad3)">
+      <node ref="DS1" pin="3" pinfunction="CATHODE_ROW_3" pintype="passive"/>
+      <node ref="J1" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="28" name="Net-(DS1-Pad4)">
+      <node ref="DS1" pin="4" pinfunction="CATHODE_ROW_4" pintype="passive"/>
+      <node ref="J1" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(DS1-Pad5)">
+      <node ref="DS1" pin="5" pinfunction="ANODE_COLUMN_1" pintype="passive"/>
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(DS1-Pad7)">
+      <node ref="DS1" pin="7" pinfunction="ANODE_DECIMAL_POINT" pintype="passive"/>
+      <node ref="J1" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(DS1-Pad8)">
+      <node ref="DS1" pin="8" pinfunction="ANODE_COLUMN_3" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(DS1-Pad9)">
+      <node ref="DS1" pin="9" pinfunction="CATHODE_ROW_7" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(DS1-Pad10)">
+      <node ref="DS1" pin="10" pinfunction="CATHODE_ROW_6" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(DS1-Pad11)">
+      <node ref="DS1" pin="11" pinfunction="CATHODE__ROW_5" pintype="passive"/>
+      <node ref="J1" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(DS1-Pad12)">
+      <node ref="DS1" pin="12" pinfunction="CAATHODE_ROW_2" pintype="passive"/>
+      <node ref="J1" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(DS1-Pad13)">
+      <node ref="DS1" pin="13" pinfunction="ANODE_COLUMN_5" pintype="passive"/>
+      <node ref="J1" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(DS1-Pad14)">
+      <node ref="DS1" pin="14" pinfunction="ANODE_COLUMN_4" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(DS2-Pad1)">
+      <node ref="DS2" pin="1" pinfunction="ANODE_COLUMN_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(DS2-Pad2)">
+      <node ref="DS2" pin="2" pinfunction="CATHODE_ROW_1" pintype="passive"/>
+      <node ref="J2" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(DS2-Pad3)">
+      <node ref="DS2" pin="3" pinfunction="CATHODE_ROW_3" pintype="passive"/>
+      <node ref="J2" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(DS2-Pad4)">
+      <node ref="DS2" pin="4" pinfunction="CATHODE_ROW_4" pintype="passive"/>
+      <node ref="J2" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(DS2-Pad5)">
+      <node ref="DS2" pin="5" pinfunction="ANODE_COLUMN_1" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(DS2-Pad7)">
+      <node ref="DS2" pin="7" pinfunction="ANODE_DECIMAL_POINT" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(DS2-Pad8)">
+      <node ref="DS2" pin="8" pinfunction="ANODE_COLUMN_3" pintype="passive"/>
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(DS2-Pad9)">
+      <node ref="DS2" pin="9" pinfunction="CATHODE_ROW_7" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(DS2-Pad10)">
+      <node ref="DS2" pin="10" pinfunction="CATHODE_ROW_6" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(DS2-Pad11)">
+      <node ref="DS2" pin="11" pinfunction="CATHODE__ROW_5" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(DS2-Pad12)">
+      <node ref="DS2" pin="12" pinfunction="CAATHODE_ROW_2" pintype="passive"/>
+      <node ref="J2" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(DS2-Pad13)">
+      <node ref="DS2" pin="13" pinfunction="ANODE_COLUMN_5" pintype="passive"/>
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(DS2-Pad14)">
+      <node ref="DS2" pin="14" pinfunction="ANODE_COLUMN_4" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(DS3-Pad1)">
+      <node ref="DS3" pin="1" pinfunction="ANODE_COLUMN_2" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(DS3-Pad2)">
+      <node ref="DS3" pin="2" pinfunction="CATHODE_ROW_1" pintype="passive"/>
+      <node ref="J3" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(DS3-Pad3)">
+      <node ref="DS3" pin="3" pinfunction="CATHODE_ROW_3" pintype="passive"/>
+      <node ref="J3" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(DS3-Pad4)">
+      <node ref="DS3" pin="4" pinfunction="CATHODE_ROW_4" pintype="passive"/>
+      <node ref="J3" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(DS3-Pad5)">
+      <node ref="DS3" pin="5" pinfunction="ANODE_COLUMN_1" pintype="passive"/>
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(DS3-Pad7)">
+      <node ref="DS3" pin="7" pinfunction="ANODE_DECIMAL_POINT" pintype="passive"/>
+      <node ref="J3" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(DS3-Pad8)">
+      <node ref="DS3" pin="8" pinfunction="ANODE_COLUMN_3" pintype="passive"/>
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(DS3-Pad9)">
+      <node ref="DS3" pin="9" pinfunction="CATHODE_ROW_7" pintype="passive"/>
+      <node ref="J3" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(DS3-Pad10)">
+      <node ref="DS3" pin="10" pinfunction="CATHODE_ROW_6" pintype="passive"/>
+      <node ref="J3" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(DS3-Pad11)">
+      <node ref="DS3" pin="11" pinfunction="CATHODE__ROW_5" pintype="passive"/>
+      <node ref="J3" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(DS3-Pad12)">
+      <node ref="DS3" pin="12" pinfunction="CAATHODE_ROW_2" pintype="passive"/>
+      <node ref="J3" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(DS3-Pad13)">
+      <node ref="DS3" pin="13" pinfunction="ANODE_COLUMN_5" pintype="passive"/>
+      <node ref="J3" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(DS3-Pad14)">
+      <node ref="DS3" pin="14" pinfunction="ANODE_COLUMN_4" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(DS4-Pad1)">
+      <node ref="DS4" pin="1" pinfunction="ANODE_COLUMN_2" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(DS4-Pad2)">
+      <node ref="DS4" pin="2" pinfunction="CATHODE_ROW_1" pintype="passive"/>
+      <node ref="J4" pin="14" pinfunction="Pin_14" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(DS4-Pad3)">
+      <node ref="DS4" pin="3" pinfunction="CATHODE_ROW_3" pintype="passive"/>
+      <node ref="J4" pin="12" pinfunction="Pin_12" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(DS4-Pad4)">
+      <node ref="DS4" pin="4" pinfunction="CATHODE_ROW_4" pintype="passive"/>
+      <node ref="J4" pin="11" pinfunction="Pin_11" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(DS4-Pad5)">
+      <node ref="DS4" pin="5" pinfunction="ANODE_COLUMN_1" pintype="passive"/>
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(DS4-Pad7)">
+      <node ref="DS4" pin="7" pinfunction="ANODE_DECIMAL_POINT" pintype="passive"/>
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(DS4-Pad8)">
+      <node ref="DS4" pin="8" pinfunction="ANODE_COLUMN_3" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(DS4-Pad9)">
+      <node ref="DS4" pin="9" pinfunction="CATHODE_ROW_7" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(DS4-Pad10)">
+      <node ref="DS4" pin="10" pinfunction="CATHODE_ROW_6" pintype="passive"/>
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(DS4-Pad11)">
+      <node ref="DS4" pin="11" pinfunction="CATHODE__ROW_5" pintype="passive"/>
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(DS4-Pad12)">
+      <node ref="DS4" pin="12" pinfunction="CAATHODE_ROW_2" pintype="passive"/>
+      <node ref="J4" pin="13" pinfunction="Pin_13" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(DS4-Pad13)">
+      <node ref="DS4" pin="13" pinfunction="ANODE_COLUMN_5" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(DS4-Pad14)">
+      <node ref="DS4" pin="14" pinfunction="ANODE_COLUMN_4" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(R5-Pad2)">
+      <node ref="R5" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="R_EXT" pintype="passive"/>
+    </net>
+    <net code="78" name="SCL">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="79" name="SDA">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="J6" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="80" name="SDB">
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J6" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="~{SDB}" pintype="input"/>
+    </net>
+    <net code="81" name="VDD">
+      <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J6" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="82" name="unconnected-(DS1-Pad6)">
+      <node ref="DS1" pin="6" pinfunction="NO_PIN" pintype="passive+no_connect"/>
+    </net>
+    <net code="83" name="unconnected-(DS2-Pad6)">
+      <node ref="DS2" pin="6" pinfunction="NO_PIN" pintype="passive+no_connect"/>
+    </net>
+    <net code="84" name="unconnected-(DS3-Pad6)">
+      <node ref="DS3" pin="6" pinfunction="NO_PIN" pintype="passive+no_connect"/>
+    </net>
+    <net code="85" name="unconnected-(DS4-Pad6)">
+      <node ref="DS4" pin="6" pinfunction="NO_PIN" pintype="passive+no_connect"/>
+    </net>
+    <net code="86" name="unconnected-(J1-Pad6)">
+      <node ref="J1" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="87" name="unconnected-(J2-Pad6)">
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="88" name="unconnected-(J3-Pad6)">
+      <node ref="J3" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+    <net code="89" name="unconnected-(J4-Pad6)">
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive+no_connect"/>
+    </net>
+  </nets>
+</export>
